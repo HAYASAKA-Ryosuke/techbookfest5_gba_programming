@@ -16,3 +16,5 @@
 - sample7・・・p38~p40
 - sample8・・・p46~p48
 - transfer・・・p56~p59
+- build.sh・・・p11
+- build_multiboot.sh・・・p50
